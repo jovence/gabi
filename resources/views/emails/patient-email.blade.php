@@ -68,38 +68,40 @@
 <body>
     <div class="email-container">
         <div class="header">
-            <a href="#" class="logo">MEDCARE</a>
+            <a href="#" class="logo">🏥 MEDCARE</a>
             <p>Your Health, Our Priority</p>
         </div>
 
-        <h1>Appointment Confirmation</h1>
+        <h1>✅ Appointment Confirmation</h1>
 
         <div class="appointment-details">
             <div class="detail-row">
-                <strong>Name:</strong> {{ $details['name'] }}
+                <strong>👤 Name:</strong> {{ $details['name'] }}
             </div>
             <div class="detail-row">
-                <strong>Email:</strong> {{ $details['email'] }}
+                <strong>📧 Email:</strong> {{ $details['email'] }}
             </div>
             <div class="detail-row">
-                <strong>Phone:</strong> {{ $details['phone'] }}
+                <strong>📱 Phone:</strong> {{ $details['phone'] }}
             </div>
             <div class="detail-row">
-                <strong>Department:</strong> {{ $details['department'] }}
+                <strong>🏢 Department:</strong> {{ $details['department'] }}
             </div>
             <div class="detail-row">
-                <strong>Date:</strong> {{ $details['date'] }}
+                <strong>📅 Date:</strong> {{ $details['date'] }}
             </div>
             <div class="detail-row">
-                <strong>Message:</strong> {{ $details['message'] }}
+                <strong>💬 Message:</strong> {{ $details['message'] }}
             </div>
         </div>
 
         <div class="footer">
-            <p>Thank you for choosing MEDCARE for your healthcare needs.</p>
+            <p>🙏 Thank you for choosing MEDCARE for your healthcare needs.</p>
             <p>📞 Contact us: (123) 456-7890</p>
-            <p>📍 123 Medical Center Drive, Healthcare City</p>
-            <p style="color: #999; font-size: 12px;">This is an automated message, please do not reply.</p>
+            <p>📍 Location: 123 Medical Center Drive, Healthcare City</p>
+            <p>🌐 Website: www.medcare.com</p>
+            <p>📱 Follow us: @medcare</p>
+            <p style="color: #999; font-size: 12px;">⚠️ This is an automated message, please do not reply.</p>
         </div>
     </div>
 </body>
