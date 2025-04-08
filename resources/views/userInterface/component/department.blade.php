@@ -3,8 +3,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Departments</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <h2>Our Medical Departments</h2>
+        <p>Specialized healthcare divisions providing comprehensive medical services with state-of-the-art facilities</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -34,80 +34,73 @@
                     <div class="tab-pane active show" id="tabs-tab-1">
                         <div class="row">
                             <div class="col-lg-8 details order-2 order-lg-1">
-                                <h3>Cardiology</h3>
-                                <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente
-                                    dila parde sonata raqer a videna mareta paulona marka</p>
-                                <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint.
-                                    Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est
-                                    repellat minima eveniet eius et quis magni nihil. Consequatur dolorem
-                                    quaerat quos qui similique accusamus nostrum rem vero</p>
+                                <h3>Cardiology Department</h3>
+                                <p class="fst-italic">Advanced cardiac care with cutting-edge diagnostic and treatment facilities</p>
+                                <p>Our Cardiology Department offers comprehensive heart care services, including advanced cardiac imaging, 
+                                   interventional procedures, and rehabilitation programs. Our team of experienced cardiologists specializes 
+                                   in treating various heart conditions, from coronary artery disease to heart rhythm disorders, using the 
+                                   latest medical technologies and evidence-based treatments.</p>
                             </div>
                             <div class="col-lg-4 text-center order-1 order-lg-2">
-                                <img src="home/assets/img/departments-1.jpg" alt="" class="img-fluid">
+                                <img src="home/assets/img/departments-1.jpg" alt="Cardiology Department" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="tab-pane" id="tabs-tab-2">
                         <div class="row">
                             <div class="col-lg-8 details order-2 order-lg-1">
-                                <h3>Neurology</h3>
-                                <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente
-                                    dila parde sonata raqer a videna mareta paulona marka</p>
-                                <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et
-                                    reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et
-                                    velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto
-                                    madirna desera vafle de nideran pal</p>
+                                <h3>Neurology Department</h3>
+                                <p class="fst-italic">Expert care for neurological disorders with modern diagnostic capabilities</p>
+                                <p>Our Neurology Department provides specialized care for disorders affecting the brain, spine, and nervous system. 
+                                   Equipped with advanced neuroimaging technology and staffed by skilled neurologists, we offer comprehensive 
+                                   treatment for conditions ranging from headaches and stroke to multiple sclerosis and neurodegenerative disorders.</p>
                             </div>
                             <div class="col-lg-4 text-center order-1 order-lg-2">
-                                <img src="home/assets/img/departments-2.jpg" alt="" class="img-fluid">
+                                <img src="home/assets/img/departments-2.jpg" alt="Neurology Department" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="tab-pane" id="tabs-tab-3">
                         <div class="row">
                             <div class="col-lg-8 details order-2 order-lg-1">
-                                <h3>Hepatology</h3>
-                                <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non
-                                    enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat
-                                    perferendis aut</p>
-                                <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis
-                                    quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima
-                                    molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam.
-                                    Soluta et harum voluptatem optio quae</p>
+                                <h3>Hepatology Department</h3>
+                                <p class="fst-italic">Specialized liver care and comprehensive digestive health services</p>
+                                <p>Our Hepatology Department focuses on liver disease diagnosis and treatment, offering advanced care for 
+                                   conditions such as viral hepatitis, cirrhosis, and liver cancer. Our hepatologists utilize state-of-the-art 
+                                   diagnostic tools and provide personalized treatment plans, including liver transplant evaluation and management.</p>
                             </div>
                             <div class="col-lg-4 text-center order-1 order-lg-2">
-                                <img src="home/assets/img/departments-3.jpg" alt="" class="img-fluid">
+                                <img src="home/assets/img/departments-3.jpg" alt="Hepatology Department" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="tab-pane" id="tabs-tab-4">
                         <div class="row">
                             <div class="col-lg-8 details order-2 order-lg-1">
-                                <h3>Pediatrics</h3>
-                                <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure
-                                    voluptas iure porro quis delectus</p>
-                                <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam
-                                    necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in
-                                    consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam
-                                    quia a laborum inventore</p>
+                                <h3>Pediatrics Department</h3>
+                                <p class="fst-italic">Compassionate healthcare for children from newborns to adolescents</p>
+                                <p>Our Pediatrics Department provides comprehensive care for children of all ages. From routine check-ups 
+                                   to complex medical conditions, our pediatricians ensure the highest quality of care in a child-friendly 
+                                   environment. We offer vaccination services, developmental assessments, and specialized treatment for 
+                                   pediatric conditions.</p>
                             </div>
                             <div class="col-lg-4 text-center order-1 order-lg-2">
-                                <img src="home/assets/img/departments-4.jpg" alt="" class="img-fluid">
+                                <img src="home/assets/img/departments-4.jpg" alt="Pediatrics Department" class="img-fluid">
                             </div>
                         </div>
                     </div>
                     <div class="tab-pane" id="tabs-tab-5">
                         <div class="row">
                             <div class="col-lg-8 details order-2 order-lg-1">
-                                <h3>Ophthalmologists</h3>
-                                <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro
-                                    quia.</p>
-                                <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis
-                                    recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui
-                                    quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                                <h3>Ophthalmology Department</h3>
+                                <p class="fst-italic">Advanced eye care services with precise diagnostic and surgical capabilities</p>
+                                <p>Our Ophthalmology Department offers comprehensive eye care services, from routine vision tests to complex 
+                                   surgical procedures. Our experienced ophthalmologists utilize advanced technology for diagnosing and treating 
+                                   various eye conditions, including cataracts, glaucoma, and retinal disorders, ensuring optimal vision health 
+                                   for our patients.</p>
                             </div>
                             <div class="col-lg-4 text-center order-1 order-lg-2">
-                                <img src="home/assets/img/departments-5.jpg" alt="" class="img-fluid">
+                                <img src="home/assets/img/departments-5.jpg" alt="Ophthalmology Department" class="img-fluid">
                             </div>
                         </div>
                     </div>

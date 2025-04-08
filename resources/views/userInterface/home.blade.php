@@ -18,7 +18,7 @@
                 <a href="index.html" class="logo d-flex align-items-center me-auto">
                     <img src="home/assets/img/logo.png" alt="">
                     <!-- Uncomment the line below if you also wish to use a text logo -->
-                    <!-- <h1 class="sitename">Medicio</h1>  -->
+                     {{-- <h1 class="sitename">Medicio</h1>  --}}
                 </a>
 
                 <nav id="navmenu" class="navmenu">
@@ -73,14 +73,36 @@
                 <div class="carousel-item active">
                     <img src="home/assets/img/hero-carousel/hero-carousel-1.jpg" alt="">
                     <div class="container">
-                        <h2>Welcome to Medicio</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <a href="#about" class="btn-get-started">Read More</a>
+                        <h2>Welcome to Medicio - Your Health Partner</h2>
+                        <p>At Medicio, we combine advanced medical technology with compassionate care to provide 
+                           exceptional healthcare services. Our team of experienced doctors and specialists are 
+                           committed to delivering personalized treatment plans and promoting better health outcomes 
+                           for all our patients.</p>
+                        <a href="#about" class="btn-get-started">Learn More About Our Services</a>
                     </div>
                 </div><!-- End Carousel Item -->
 
+                <div class="carousel-item">
+                    <img src="home/assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
+                    <div class="container">
+                        <h2>State-of-the-Art Medical Facilities</h2>
+                        <p>Experience healthcare at its finest with our modern medical facilities and 
+                           cutting-edge diagnostic equipment. We offer comprehensive medical services, 
+                           from routine check-ups to specialized treatments, all under one roof.</p>
+                        <a href="#services" class="btn-get-started">Explore Our Facilities</a>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img src="home/assets/img/hero-carousel/hero-carousel-3.jpg" alt="">
+                    <div class="container">
+                        <h2>Expert Medical Professionals</h2>
+                        <p>Our healthcare team consists of board-certified physicians, experienced nurses, 
+                           and qualified specialists who are leaders in their respective fields. We're dedicated 
+                           to providing you with the highest standard of medical care.</p>
+                        <a href="#doctors" class="btn-get-started">Meet Our Team</a>
+                    </div>
+                </div>
 
             </div><!-- End Carousel Item -->
 
